@@ -1,4 +1,4 @@
-./EFCorePostgreSQL/appsettings.json
+.appsettings.json
 *.swp
 *.*~
 project.lock.json
